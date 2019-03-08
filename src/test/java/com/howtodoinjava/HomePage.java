@@ -26,6 +26,7 @@ public class HomePage extends Base {
         driver.get(prop.getProperty("url"));
         log.info("Opened URL");
         driver.manage().window().maximize();
+        System.out.println("GIT Add Sample Test!");
     }
 
     @Test(dataProvider = "getData")
