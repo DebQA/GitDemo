@@ -1,0 +1,7 @@
+19:49:01.269 [main] DEBUG com.howtodoinjava.HomePage - Driver is being Initialized..
+19:49:04.744 [main] INFO  com.howtodoinjava.HomePage - Opened URL
+19:49:06.014 [main] INFO  com.howtodoinjava.HomePage - Entered username
+19:49:07.206 [main] DEBUG com.howtodoinjava.HomePage - Clicked on Sign In..
+19:49:07.245 [main] INFO  com.howtodoinjava.HomePage - WELCOME :)
+19:49:07.246 [main] ERROR com.howtodoinjava.HomePage - No Text found
+19:49:07.833 [main] INFO  com.howtodoinjava.HomePage - Entered username
