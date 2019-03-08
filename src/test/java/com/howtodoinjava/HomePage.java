@@ -41,7 +41,7 @@ public class HomePage extends Base {
         log.info(welcome);
         log.error("No Text found");
         lgnPage.getBack().click();
-
+        System.out.println("GIT Another new step!");
 
     }
     @AfterTest
@@ -49,6 +49,8 @@ public class HomePage extends Base {
         driver.close();
         log.info("Browser Closed");
         driver = null;
+        System.out.println("GIT Final Step!");
+        System.out.println("Few more steps");
     }
 
     @DataProvider

@@ -15,6 +15,8 @@ public class LandingPage {
     }
 
     public WebElement getLogin(){
+        System.out.println("Add another line");
      return driver.findElement(login);
+
     }
 }

@@ -42,4 +42,5 @@ public class LoginPage {
     public WebElement getWelcomeMessage(){
         return driver.findElement(welcomeText);
     }
+
 }
